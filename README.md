@@ -106,15 +106,7 @@ I'm a **Full-Stack Software Developer** with 2 years of experience developing en
 
 ---
 
-##  GitHub Activity
 
-<div align="center">
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahkhansawati&theme=github_dark)
-
-</div>
-
----
 
 ##  Professional Interests
 
