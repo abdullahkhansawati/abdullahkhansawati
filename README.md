@@ -10,7 +10,7 @@ Building scalable enterprise applications, intelligent AI-integrated systems, an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-riaz-63a286267)
 [![Portfolio](https://img.shields.io/badge/Synexus-Technologies-177E89?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.synexustech.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahkhanswati655@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdullahkhanswati655@gmail.com)
 
 </div>
 
@@ -128,10 +128,9 @@ I'm interested in building reliable software solutions, working on challenging e
 
 -  **LinkedIn:** [Abdullah Riaz](https://www.linkedin.com/in/abdullah-riaz-63a286267)
 -  **Company:** [Synexus Software Technologies](https://www.synexustech.com/)
--  **Email:** abdullahkhanswati655@gmail.com
-
+- **Email:** [abdullahkhanswati655@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=abdullahkhanswati655@gmail.com)
 <div align="center">
 
-**Thanks for visiting my GitHub profile!**
+**Thanks for visiting my GitHub profile!**  
 
 </div>
