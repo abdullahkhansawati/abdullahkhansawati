@@ -4,7 +4,7 @@
 # Hi there, I'm Abdullah Riaz 
 
 ### Full-Stack Software Developer | Software Engineer
-**Founder of Synexus Software Technologies | Full-Stack Developer at NUST**
+**Co-Founder & CFO at Synexus Software Technologies | Full-Stack Developer at NUST**
 
 Building scalable enterprise applications, intelligent AI-integrated systems, and advanced LMS solutions.
 
@@ -21,7 +21,7 @@ Building scalable enterprise applications, intelligent AI-integrated systems, an
 I'm a **Full-Stack Software Developer** with 2 years of experience developing enterprise applications, AI-integrated solutions, and university Learning Management Systems.
 
 -  **Full-Stack Developer at NUST** — Moodle LMS and AI-assisted examination systems.
--  **Founder of Synexus Software Technologies**.
+-  **Co-Founder & CFO at Synexus Software Technologies**.
 -  Working with **AI integration, face recognition, and position detection**.
 -  Experienced with **MERN, Next.js, PHP, .NET, and Flutter/Dart**.
 -  Developed HRMS, ERP, hotel, hospital, and college management applications.
